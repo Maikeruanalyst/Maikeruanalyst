@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maikeruanalyst
+- 👋 Hi, I’m @Michael Lumawig
 - 👀 I’m interested in data and business analysis
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on data projects for my portfolio
